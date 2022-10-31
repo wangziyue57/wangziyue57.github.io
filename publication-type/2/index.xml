@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://wangziyue57.github.io/publication-type/2/</link>
+      <atom:link href="https://wangziyue57.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wangziyue57.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://wangziyue57.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>beta Cell-specific deletion of Zfp148 improves nutrient-stimulated beta cell Ca2&#43; responses</title>
+      <link>https://wangziyue57.github.io/publication/2022jci/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://wangziyue57.github.io/publication/2022jci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microglial responses to CSF1 overexpression do not promote the expansion of other glial lineages</title>
+      <link>https://wangziyue57.github.io/publication/2021jn/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://wangziyue57.github.io/publication/2021jn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
